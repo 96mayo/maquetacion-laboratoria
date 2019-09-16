@@ -1,0 +1,84 @@
+.container{
+    max-width: 960px;
+}
+.primera-seccion{
+    background-image: url(img/fondos/laboratoria.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 446px;
+    display: flex;
+    align-items: flex-end;
+    
+}
+.tercera-seccion{
+    background-image: url(img/fondos/barack\ obama.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 426px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.quinta-seccion{
+    background-image: url(img/fondos/sandra.JPG);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 409px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.septima-seccion{
+    background-image: url(img/fondos/anand.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 414px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.novena-seccion{
+    background-image: url(img/fondos/carla.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 428px;
+    display: flex;
+    align-items: flex-end;
+}
+.background-426{
+    height: 426px;
+}
+.cajas__impacto{
+    height: 100%;
+    color: white;
+    font-weight: bold;
+}
+.cajas__impacto .num{
+  font-size: 20px;
+}
+.footer{
+    background: black;
+}
+.testimonio--text{
+    color: white;
+}
+.testimonio--autor{
+    color: yellow;
+}
+.testimonio--text-small{
+    color:white;
+}
+.boton-fucsia{
+    background:fuchsia;
+    color:white;
+    
+}
+.anand,
+.carla{
+    text-align: right;
+}
